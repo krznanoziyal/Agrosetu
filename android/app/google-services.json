@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "781624993763",
+    "project_id": "newsignin-cb60e",
+    "storage_bucket": "newsignin-cb60e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781624993763:android:dff32fc072aa364472e2d6",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl2cqyn0sl0og080ZTOMOmV2VbJOFlkPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
